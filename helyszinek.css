@@ -1,0 +1,16 @@
+body{
+    background-image: url(./e9d8b66e46b54e0e9cca3c95a2569bcc.jpg);
+    background-size: cover;
+}
+div{
+    width: 300px;
+    margin: auto;
+    font-size: 27px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+
+a{
+    color: aqua;
+    font-size: 50px;
+}
